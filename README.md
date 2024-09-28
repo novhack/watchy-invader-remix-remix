@@ -4,6 +4,8 @@ The original author of "Watchy Invader Remix" Watchy case is Dooganar.
 
 https://www.printables.com/model/745711-watchy-invader-remix/
 
+This is a slightly modified version of the slim non-curved version.
+
 # Changes
 
 - Made this version compatible with 24 mm straps (the original is compatible with 22 mm)
