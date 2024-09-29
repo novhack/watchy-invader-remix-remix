@@ -12,3 +12,5 @@ This is a slightly modified version of the slim non-curved version.
 - Moved holes for screws 2 mm inwards so screws would not interfere with the Watch v2 PCB.
 
 Buttons are kept from original but just as it's instructed with the original remix it's better to print them at 90% to fit well.
+
+![Watchy Invader Remix Remix 3D Printed Case](watchy-invader-remix-remix.jpg)
